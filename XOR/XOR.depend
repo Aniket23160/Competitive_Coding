@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1615321355 source:/home/aniket/Documents/CP/XOR/main.cpp
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+	<math.h>
+

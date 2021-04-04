@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1614689659 source:/home/aniket/Documents/CP/OneToN/main.cpp
+	<iostream>
+	<iterator>
+	<set>
+	<bits/stdc++.h>
+
